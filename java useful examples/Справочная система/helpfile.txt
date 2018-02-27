@@ -1,0 +1,26 @@
+#if
+if(uslovie) operator;
+else operator;
+
+#switch
+switch(virajeniye){
+ case konstanta:
+ posledovatelnost operatorov
+ break;}
+
+#for
+for(inicializaciya; uslovie; interacija) operator;
+
+#while
+while (uslovie) operator;
+
+#do
+do{
+ operator;}
+while (uslovie);
+
+#break
+break; ili break metka;
+
+#continue
+continue; ili continue metka;
